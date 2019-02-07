@@ -1,5 +1,10 @@
 function helloWorld(){
-    console.log('Hello world');
+    console.log(message);
 }
 
-module.exports = { helloWorld };
+const message = 'Hello world';
+
+module.exports = {
+    message,
+    helloWorld
+};
