@@ -1,0 +1,17 @@
+{
+  "name": "pbcl-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "vshevaha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://<add url to repo>"
+  },
+  "engines": {
+    "node": "8.10.0",
+    "npm": "5.6.0"
+  },
+  "dependencies": {}
+}
